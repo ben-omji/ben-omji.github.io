@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Code CVS"
 title_separator          : "in"
 subtitle                 : "Welcome"# site tagline that appears below site title in masthead
-name                     : "Ben(Beomjin) Kim"
+name                     : "Beomjin Kim"
 description              : "Convenience store which has some magical(or cheated) code snippet."
 url                      : "https://ben-omji.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
