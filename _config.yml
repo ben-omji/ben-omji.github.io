@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ben(범진) Kim"
+  name             : "NSMO"
   avatar           : "/assets/images/avatar.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome. Take your time."
   location         : "Seoul, South Korea"
