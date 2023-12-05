@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Code CVS"
+title                    : "NSMO Blog"
 title_separator          : "in"
-subtitle                 : "코드편의점"# site tagline that appears below site title in masthead
+subtitle                 : "Deep-learning & Kubernetes tech blog"# site tagline that appears below site title in masthead
 name                     : "Beomjin Kim"
-description              : "Convenience store which has some magical(or cheated) code snippet."
+description              : "Deep-learning & Kubernetes tech blog. I'm posting some contents that I made for my own use."
 url                      : "https://ben-omji.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Ben(범진) Kim"
-  avatar           : "/assets/images/signboard.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome. Take your time."
   location         : "Seoul, South Korea"
   email            : "createnewid10@gmail.com"
